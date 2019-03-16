@@ -1,0 +1,6 @@
+/Users/milo/Projects/reverse_order/reverse_order/obj/x86/Debug/reverse_order.csprojAssemblyReference.cache
+/Users/milo/Projects/reverse_order/reverse_order/obj/x86/Debug/reverse_order.csproj.CoreCompileInputs.cache
+/Users/milo/Projects/reverse_order/reverse_order/bin/Debug/reverse_order.exe
+/Users/milo/Projects/reverse_order/reverse_order/bin/Debug/reverse_order.pdb
+/Users/milo/Projects/reverse_order/reverse_order/obj/x86/Debug/reverse_order.exe
+/Users/milo/Projects/reverse_order/reverse_order/obj/x86/Debug/reverse_order.pdb

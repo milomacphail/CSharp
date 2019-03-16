@@ -1,0 +1,6 @@
+/Users/milo/Projects/input_number/input_number/obj/x86/Debug/input_number.csprojAssemblyReference.cache
+/Users/milo/Projects/input_number/input_number/obj/x86/Debug/input_number.csproj.CoreCompileInputs.cache
+/Users/milo/Projects/input_number/input_number/bin/Debug/input_number.exe
+/Users/milo/Projects/input_number/input_number/bin/Debug/input_number.pdb
+/Users/milo/Projects/input_number/input_number/obj/x86/Debug/input_number.exe
+/Users/milo/Projects/input_number/input_number/obj/x86/Debug/input_number.pdb

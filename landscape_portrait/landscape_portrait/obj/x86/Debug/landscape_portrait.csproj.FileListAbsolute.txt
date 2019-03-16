@@ -1,0 +1,6 @@
+/Users/milo/Projects/landscape_portrait/landscape_portrait/obj/x86/Debug/landscape_portrait.csprojAssemblyReference.cache
+/Users/milo/Projects/landscape_portrait/landscape_portrait/obj/x86/Debug/landscape_portrait.csproj.CoreCompileInputs.cache
+/Users/milo/Projects/landscape_portrait/landscape_portrait/bin/Debug/landscape_portrait.exe
+/Users/milo/Projects/landscape_portrait/landscape_portrait/bin/Debug/landscape_portrait.pdb
+/Users/milo/Projects/landscape_portrait/landscape_portrait/obj/x86/Debug/landscape_portrait.exe
+/Users/milo/Projects/landscape_portrait/landscape_portrait/obj/x86/Debug/landscape_portrait.pdb

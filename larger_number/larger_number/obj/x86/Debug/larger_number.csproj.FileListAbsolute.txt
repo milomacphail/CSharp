@@ -1,0 +1,6 @@
+/Users/milo/Projects/larger_number/larger_number/bin/Debug/larger_number.exe
+/Users/milo/Projects/larger_number/larger_number/bin/Debug/larger_number.pdb
+/Users/milo/Projects/larger_number/larger_number/obj/x86/Debug/larger_number.csprojAssemblyReference.cache
+/Users/milo/Projects/larger_number/larger_number/obj/x86/Debug/larger_number.csproj.CoreCompileInputs.cache
+/Users/milo/Projects/larger_number/larger_number/obj/x86/Debug/larger_number.exe
+/Users/milo/Projects/larger_number/larger_number/obj/x86/Debug/larger_number.pdb
