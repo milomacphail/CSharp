@@ -1,0 +1,6 @@
+/Users/milo/Projects/speed_limit/speed_limit/obj/x86/Debug/speed_limit.csprojAssemblyReference.cache
+/Users/milo/Projects/speed_limit/speed_limit/obj/x86/Debug/speed_limit.csproj.CoreCompileInputs.cache
+/Users/milo/Projects/speed_limit/speed_limit/bin/Debug/speed_limit.exe
+/Users/milo/Projects/speed_limit/speed_limit/bin/Debug/speed_limit.pdb
+/Users/milo/Projects/speed_limit/speed_limit/obj/x86/Debug/speed_limit.exe
+/Users/milo/Projects/speed_limit/speed_limit/obj/x86/Debug/speed_limit.pdb
