@@ -1,0 +1,10 @@
+double[] fareEstimator(int ride_time, int ride_distance, double[] cost_per_minute, double[] cost_per_mile) {
+
+        double[] totalCost = new double[cost_per_mile.Length];
+     
+        for (var costCounter = 0; costCounter < totalCost.Length; costCounter++){
+             totalCost[costCounter]=(ride_time * cost_per_minute[costCounter]) + (ride_distance * cost_per_mile[costCounter]);                      
+        }
+             return totalCost;   
+       
+}
