@@ -1,0 +1,51 @@
+using System;
+using static System.Console;
+
+namespace drawBoard
+{
+
+    class Board
+    {
+        public static void Main()
+        {
+            DrawBoard(4, 8);
+        }
+
+        private static void drawTop()
+        {
+            Write(" __ ");
+        }
+
+        private static void drawWalls()
+        {
+            Write("|  |");
+        }
+
+        private static void drawBottom()
+        {
+            Write("+--+");
+        }
+
+        private static void DrawBoard(int height, int width)
+        {
+            for (int rowCounter = 0; rowCounter < height; rowCounter++)
+            {
+                for (int columnCounter = 0; columnCounter < width; columnCounter++)
+                {
+                    drawTop();
+                }
+                Console.WriteLine();
+                for (int wallCounter = 0; wallCounter < width; wallCounter++)
+                { 
+                    drawWalls();
+                }
+                Console.WriteLine();
+                for (int bottomCounter = 0; bottomCounter < width; bottomCounter++)
+                {
+                    drawBottom();
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+}
