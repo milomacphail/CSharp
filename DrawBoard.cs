@@ -1,0 +1,62 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DrawBoardV2
+{
+    public class DrawBoard
+    {
+        int width;
+        int height;
+        public DrawBoard(int w, int h)
+        {
+            this.width = w;
+            this.height = h;
+        }
+        //Milo - this is really sophisticated, although I'm not sure I understand the math and would love to walk through it.
+        // prints rows of boxes for a specified width
+        public void DrawRows(int width)
+        {
+            int n = (2 * width) - 1;
+
+            // start i from 0 as 0 % 2 is 0 which is even
+            for (var i = 0; i < n; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.Write(" ");
+                }
+                else
+                {
+                    Console.Write("|");
+                }
+
+            }
+            Console.WriteLine();
+
+
+        }
+        //Milo - I like that you're way better with object oriented principles than I am; I'm curious as to why we need this level of sepration beyond best practices, thanks!
+        // prints separator for a specified width not height
+        public void DrawSeparator(int width)
+        {
+            int n = (2 * width) - 1;
+
+            for (var i = 0; i < n; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.Write("-");
+                }
+                else
+                {
+                    Console.Write("+");
+                }
+            }
+            Console.WriteLine();
+
+        }
+    }
+}
